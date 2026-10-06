@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Data files (generated at runtime — don't commit user data)
+data/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Demo Node.js file (optional, Python-only project)
+demo_run.js
